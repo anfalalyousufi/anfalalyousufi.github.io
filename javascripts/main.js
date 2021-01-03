@@ -1,0 +1,1 @@
+alert(" Hello and welcome to my blog about Data Science");
